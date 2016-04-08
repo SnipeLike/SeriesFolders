@@ -1,6 +1,6 @@
 #--EDIT--#
 #Verzeichnis INDEM die Ordner erstellt werden sollen
-$path = "F:\Torrents\Serien\Prison Break\Staffel 4"
+$path = "C:\Series\PrisonBreak\S04\"
 
 #--EDIT--#
 #Anzahl der zu erstellenden Ordner
